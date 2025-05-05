@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to loans service production configuration local nineth modified APIs "
+  message: "Welcome to loans service production configuration local tenth modified APIs "
   contactDetails:
     name: "Bao Pen - Developer"
     email: "{cipher}a648e5718cd3e9ce8919a7d6435975d3e3b56f2accda1d55639417c14f40962460af328c1044544d0e7b601c671827dd"
